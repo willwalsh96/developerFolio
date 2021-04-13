@@ -20,8 +20,8 @@ const socialMediaLinks = {
   github: "https://github.com/willwalsh96",
   linkedin: "https://www.linkedin.com/in/william-walsh-00ba11113/",
   gmail: "williamtecumsehwalsh@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  //gitlab: "https://gitlab.com/saadpasta",
+  //facebook: "https://www.facebook.com/saad.pasta7"
   // Instagram and Twitter are also supported in the links!
 };
 
