@@ -8,18 +8,18 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   //username: "William Walsh",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  title: "Please Enjoy the William Walsh",
+  subTitle: emoji("Born-Techie🚀 INterested in Web Development, Networking, Data Analysis, Cloud COmputing, Video Games, World Culture and Food :) "),
+  resumeLink: "https://docs.google.com/document/d/1aVC5QHwleG8KO-lGEpOSybZd75UEj-cDiUvxIHeZ7gA/edit"
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
+  github: "https://github.com/willwalsh96",
+  linkedin: "https://www.linkedin.com/in/william-walsh-00ba11113/",
+  gmail: "williamtecumsehwalsh@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7"
   // Instagram and Twitter are also supported in the links!
