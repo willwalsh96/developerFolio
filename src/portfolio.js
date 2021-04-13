@@ -7,9 +7,9 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  //username: "William Walsh",
+  username: "What does Changing this do Walsh",
   title: "Please Enjoy the William Walsh",
-  subTitle: emoji("Born-Techie🚀 INterested in Web Development, Networking, Data Analysis, Cloud COmputing, Video Games, World Culture and Food :) "),
+  subTitle: emoji("Born-Techie🚀 Interested in Web Development, Networking, Data Analysis, Cloud Computing, Video Games, World Culture and Food :) "),
   resumeLink: "https://docs.google.com/document/d/1aVC5QHwleG8KO-lGEpOSybZd75UEj-cDiUvxIHeZ7gA/edit"
 };
 
