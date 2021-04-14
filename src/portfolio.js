@@ -256,11 +256,11 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  // title: emoji("Podcast 🎙️"),
-  // subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
-  //
-  // // Please Provide with Your Podcast embeded Link
-  // podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
+  title: emoji("Podcast 🎙️"),
+  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+
+  // Please Provide with Your Podcast embeded Link
+  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
 };
 
 const contactInfo = {
