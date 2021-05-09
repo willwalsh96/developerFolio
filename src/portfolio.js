@@ -7,8 +7,8 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "What does Changing this do Walsh",
-  title: "Please Enjoy the William Walsh",
+  //username: "What does Changing this do Walsh"
+  title: "William Tecumseh Walsh",
   subTitle: emoji("Born-Techie🚀 Interested in Web Development, Networking, Data Analysis, Cloud Computing, Video Games, World Culture and Food :) "),
   resumeLink: "https://docs.google.com/document/d/1aVC5QHwleG8KO-lGEpOSybZd75UEj-cDiUvxIHeZ7gA/edit"
 };
@@ -64,10 +64,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
+    // {
+    //   skillName: "swift",
+    //   fontAwesomeClassname: "fab fa-swift"
+    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -80,18 +80,18 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
+    // {
+    //   skillName: "firebase",
+    //   fontAwesomeClassname: "fas fa-fire"
+    // },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+    // {
+    //   skillName: "docker",
+    //   fontAwesomeClassname: "fab fa-docker"
+    // }
   ]
 };
 
@@ -272,10 +272,10 @@ const contactInfo = {
 
 //Twitter Section
 
-const twitterDetails = {
-
-  userName : "twitter"//Replace "twitter" with your twitter username without @
-
-};
+// const twitterDetails = {
+//
+//   userName : "twitter"//Replace "twitter" with your twitter username without @
+//
+// };
 export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
 //podcastSection
