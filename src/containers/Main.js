@@ -30,7 +30,7 @@ export default class Main extends Component {
         <Achievement />
         {/* <Blogs /> */}
         {/* <Talks /> */}
-        // {<Twitter />}
+        {/* <Twitter /> */}
         {/* <Podcast /> */}
         <Profile />
         <Footer />
