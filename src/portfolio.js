@@ -274,7 +274,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : //Replace "twitter" with your twitter username without @
+  userName : "twitter" //Replace "twitter" with your twitter username without @
 
 };
 export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
