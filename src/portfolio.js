@@ -265,8 +265,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  
-  subtitle: emoji("Contact Me ☎️"),
+  subtitle: "Contact Me" ,
   number: "+1(630)981-4591",
   email_address: "WilliamTecumsehWalsh@gmail.com"
 };
