@@ -28,12 +28,12 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "Some applications or technologies I've used in some capactity",
+  subTitle: "I love learning new things",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("I've wanted to be a Website Developer since I was a kid.")
+    // emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    // emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -265,7 +265,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Please reach out I need work!.",
+  
+  subtitle: emoji("Contact Me ☎️"),
   number: "+1(630)981-4591",
   email_address: "WilliamTecumsehWalsh@gmail.com"
 };
