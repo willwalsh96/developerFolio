@@ -31,7 +31,7 @@ const skillsSection = {
   title: "Some applications or technologies I've used in some capactity",
   subTitle: "I love learning new things",
   skills: [
-    emoji("I've wanted to be a Website Developer since I was a kid.")
+    emoji("I've wanted to be a Website Developer since I was a kid."),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
